@@ -1,0 +1,22 @@
+{
+    "name": "tempus-winter",
+    "displayName": "tempus-winter",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "koffiekop",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tempus winter",
+                "uiTheme": "vs",
+                "path": "./themes/tempus-winter-color-theme.json"
+            }
+        ]
+    }
+}

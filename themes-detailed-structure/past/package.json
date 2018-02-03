@@ -1,0 +1,22 @@
+{
+    "name": "tempus-past",
+    "displayName": "tempus-past",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "koffiekop",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tempus past",
+                "uiTheme": "vs",
+                "path": "./themes/tempus-past-color-theme.json"
+            }
+        ]
+    }
+}

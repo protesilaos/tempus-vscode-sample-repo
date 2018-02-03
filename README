@@ -1,0 +1,8 @@
+Refer to the comments in the `demo-build.sh` on the purpose of this repo.
+
+IMPORTANT
+=========
+
+This is a highly experimental project to port the Tempus themes over to Visual Studio Code.
+
+Everything is subject to change. DO NOT USE in production.

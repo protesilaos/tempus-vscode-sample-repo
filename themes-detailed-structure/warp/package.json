@@ -1,0 +1,22 @@
+{
+    "name": "tempus-warp",
+    "displayName": "tempus-warp",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "koffiekop",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tempus warp",
+                "uiTheme": "vs",
+                "path": "./themes/tempus-warp-color-theme.json"
+            }
+        ]
+    }
+}
